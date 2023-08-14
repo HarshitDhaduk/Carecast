@@ -4,6 +4,6 @@
   }
 }
 "scripts": {
-  "start": "python app2.py"
+  "start": "python main.py"
 }
 
