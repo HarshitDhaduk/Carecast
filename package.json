@@ -1,6 +1,9 @@
 {
   "dependencies": {
     "scikit-learn": "^0.1.0"
-    "start": gunicorn app2:app
   }
 }
+"scripts": {
+  "start": "python app2.py"
+}
+
