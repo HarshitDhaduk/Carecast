@@ -2,8 +2,9 @@
   "dependencies": {
     "scikit-learn": "^0.1.0"
   }
-}
-"scripts": {
+  "scripts": {
   "start": "python main.py"
 }
 
+
+}
